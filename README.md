@@ -12,22 +12,6 @@ Investment in Gold or General Bonds is a forecasting application that receives i
 The model will take inputs from the customer. There will be 3 inputs and the user has to choose 1 option out of 3. The options are 1 year, 4 year and 8 year. These inputs are basically asking the model to give a forecast of the number of days.
 
 The output will give the forecasted value for both Gold and General Bond along with the returns after "n" number of days. It will show returns and graph for both GOLD and General so that users can see and decide which one to buy. It takes less than 1 minute to execute this whole operation depending on how good your system is.
-1.3 Document Organization
-This document is organized into the following section:
-
-Introduction	Provides information related to the document
-System Overview	Describes the approach, architectural goals and constraints, Guiding principles
-Application Architecture 	Describe the application architecture in terms of different layers of application. Description of the presentation layer, business layer, data access layer and resource layer and their relationship to each other. 
-Database Architecture 	Describes the overall Data model and entity relationship diagram
-Assumptions and Constraints	Details various assumptions made during design and development of the Online Screening tool 
-
-1.4	Audience
-The intended audiences for this document are: -
-●	Innodatatics Inc.
-●	The project development team
-●	Mentors
-●	Online Public 
- 
 2.	System Overview
 2.1 Context
 The 2008-09 global financial crises and 2020-21 pandemic have shown us the volatility of the market. Many people are finding a way to invest money to secure their future. People are trying to find a secure investment with minimum financial risks with higher returns. This is also a fact that with investment there also comes with risks. There is a saying in the world of investment “Do not put all your eggs in one basket”. We need a diverse portfolio in the area of investment, so that if one investment does not give you enough yields due to fluctuations in the market rates then others will give you higher yield. 
